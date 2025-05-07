@@ -31,6 +31,8 @@
 		<url/>
 	</scm>
 
+	<!--war: java EE için kullanılır. JSP,servlet,html,css-->
+	<!--jar: spring boot için eklenir-->
 	<packaging>jar</packaging>
 
 
